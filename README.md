@@ -1,7 +1,6 @@
 # 📱 Projeto FINANÇAS UNIESP
 
-Aplicativo mobile desenvolvido com **React Native** + **Expo**, focado no controle de finanças pessoais. Este app permite registrar entradas e saídas, visualizar saldo e manter o usuário autenticado de forma segura.
-
+Aplicativo mobile desenvolvido com **React Native** 
 ---
 
 ## 🎨 Protótipo
